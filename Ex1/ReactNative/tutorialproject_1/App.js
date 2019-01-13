@@ -11,6 +11,7 @@ export default class App extends React.Component {
     }
 }
 
+<<<<<<< HEAD
 const styles1 = StyleSheet.create({
     container: {
         flex: 1,
@@ -22,6 +23,9 @@ const styles1 = StyleSheet.create({
 
 
 const styles2 = StyleSheet.create({
+=======
+const styles = StyleSheet.create({
+>>>>>>> Thu1
     container: {
         flex: 1,
         backgroundColor: '#fff',
@@ -29,3 +33,13 @@ const styles2 = StyleSheet.create({
         justifyContent: 'center',
     },
 });
+
+const styles = StyleSheet.create({
+    container: {
+        flex: 1,
+        backgroundColor: '#fff',
+        alignItems: 'center',
+        justifyContent: 'center',
+    },
+});
+
