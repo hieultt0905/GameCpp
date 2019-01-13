@@ -13,7 +13,7 @@ export default class App extends React.Component {
 
 const styles1 = StyleSheet.create({
     container: {
-        flex: 1,
+        flex: 30,
         backgroundColor: '#fff',
         alignItems: 'center',
         justifyContent: 'center',
@@ -23,7 +23,7 @@ const styles1 = StyleSheet.create({
 
 const styles2 = StyleSheet.create({
     container: {
-        flex: 1,
+        flex: 20,
         backgroundColor: '#fff',
         alignItems: 'center',
         justifyContent: 'center',
